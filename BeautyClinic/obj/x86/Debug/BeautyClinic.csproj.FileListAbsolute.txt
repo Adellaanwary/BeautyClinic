@@ -1,0 +1,33 @@
+F:\Probis\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\BeautyClinic.exe.config
+F:\Probis\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\BeautyClinic.exe
+F:\Probis\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\BeautyClinic.pdb
+F:\Probis\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\Oracle.DataAccess.dll
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.BookingJadwal.resources
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.daftarMembership.resources
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.Form1.resources
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.Oprator.resources
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.Properties.Resources.resources
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.UbahJadwal.resources
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csproj.GenerateResource.cache
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csproj.CoreCompileInputs.cache
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csproj.CopyComplete
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.exe
+F:\Probis\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.pdb
+F:\Probis\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\OraProvCfg.exe
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\BeautyClinic.exe.config
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\BeautyClinic.exe
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\BeautyClinic.pdb
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\Oracle.DataAccess.dll
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\bin\x86\Debug\OraProvCfg.exe
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csprojAssemblyReference.cache
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.BookingJadwal.resources
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.daftarMembership.resources
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.Form1.resources
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.Oprator.resources
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.Properties.Resources.resources
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.UbahJadwal.resources
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csproj.GenerateResource.cache
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csproj.CoreCompileInputs.cache
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.csproj.CopyComplete
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.exe
+D:\Online Class\PROBIS\BeautyClinic (2)\BeautyClinic (2)\BeautyClinic\obj\x86\Debug\BeautyClinic.pdb
