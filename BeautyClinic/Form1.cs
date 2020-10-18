@@ -27,6 +27,7 @@ namespace BeautyClinic
             InitializeComponent();
 
             // Testing git DONE
+            // Coba push Git
             string connString = "Data Source=XE; User Id=beautyclinic; Password=beautyclinic;";
 
             conn = new OracleConnection(connString);
